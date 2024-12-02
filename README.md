@@ -39,7 +39,7 @@
 [![sou1ton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sou1ton-exe&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
-![Leetcode Stats](https://leetcard.jacoblin.cool/sou1ton?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sou1ton?theme=dark) 
 
 ###
 ![sou1ton's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou1ton-exe&show_icons=true&theme=radical) 
