@@ -3,7 +3,6 @@
 <h1 align="center">👋 Hello, everyone! My name is Ilya.</h1>
 
 ###
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">![](https://komarev.com/ghpvc/?username=sou1ton-exe&abbreviated=true)</p>
 
 <h3 align="left">👩‍💻  About me: </h3>
