@@ -12,6 +12,11 @@
 <p align="left">I am 16 years old, I study Python and make games on Unity.</p>
 
 ###
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
 
 <h3 align="left">🛠 Technologies: </h3>
 
