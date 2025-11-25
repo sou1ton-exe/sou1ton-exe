@@ -8,9 +8,6 @@
   <a href="https://vk.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
-  <a href="https://github.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://t.me/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
