@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+  [![views](https://komarev.com/ghpvc/?username=sou1ton-exe&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/sou1ton-exe)
 
 </div>
 
