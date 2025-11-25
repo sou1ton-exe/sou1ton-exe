@@ -3,6 +3,7 @@
 <h1 align="center">👋 Hello, everyone! My name is Ilya.</h1>
 
 ###
+                                        <p align="center">![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)</p>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">![](https://komarev.com/ghpvc/?username=sou1ton-exe&abbreviated=true)</p>
                                                  
 
