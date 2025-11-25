@@ -14,6 +14,9 @@
   <a href="https://leetcode.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://leetcode.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </div>
 
 <h3 align="left">👩‍💻  About me: </h3>
