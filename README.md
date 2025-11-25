@@ -19,7 +19,7 @@
   <h1>ㅤ</h1>
 </div>
 
-<div align="center">
+<div align="left">
   
   <a href="https://vk.com/today_24_degrees" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
