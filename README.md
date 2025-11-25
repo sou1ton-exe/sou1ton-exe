@@ -19,8 +19,6 @@
 </div>
 
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fffffff7&lines=My+social+networks+👇)](https://git.io/typing-svg) 
   
   <a href="https://vk.com/today_24_degrees" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
