@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">👋: Hello, everyone! My name is Ilya.</h1>
+<h1 align="center">👋: Hello, everyone!</h1>
 
 
 ###
