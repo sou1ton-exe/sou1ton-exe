@@ -2,11 +2,22 @@
 
 <h1 align="center">👋: Hello, everyone!</h1>
 
-
 ###
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <p align="center">![](https://komarev.com/ghpvc/?username=sou1ton-exe&abbreviated=true)</p>
-                                                 
+<div align="center">
+  <a href="https://vk.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  </a>
+  <a href="https://github.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://leetcode.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
 
 <h3 align="left">👩‍💻  About me: </h3>
 
@@ -31,8 +42,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  
-
 </div>
 
 ###
