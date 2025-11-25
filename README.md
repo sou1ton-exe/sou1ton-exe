@@ -10,12 +10,6 @@
 👨‍💻: My programming languages are Python and C#
 
 <div align="left">
-  
-  [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
-
-</div>
-
-<div align="left">
   <a href="https://vk.com/today_24_degrees" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
@@ -32,6 +26,12 @@
 
 <div align="center">
   <h1>ㅤ</h1>
+</div>
+
+<div align="center">
+  
+  [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+
 </div>
 
 <h3 align="left">🛠: Technologies: </h3>
