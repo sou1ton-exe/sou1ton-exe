@@ -6,7 +6,7 @@
 ###
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <p align="center">![](https://komarev.com/ghpvc/?username=sou1ton-exe&abbreviated=true)</p>
-                                         <p align="center">![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)</p> <p align="center">![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</p>
+                                         <p align="left">![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)</p> <p align="center">![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</p>
                                                  
 
 <h3 align="left">👩‍💻  About me: </h3>
