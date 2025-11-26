@@ -53,4 +53,4 @@
 
 <h3 align="left">🔥: My stats </h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sou1ton?theme=dark) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/sou1toon?theme=dark) 
