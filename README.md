@@ -1,6 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
+
 ### Yoo!
 
 👾: I'm sou1toon
@@ -36,7 +37,9 @@
 
 </div>
 
-<h3 align="left">🛠: Technologies: </h3>
+
+<details open> 
+  <summary><h3>🛠: Technologies:</h3></summary>
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -49,8 +52,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
 </div>
+</details>
 
+<details open> 
+  <summary><h3>🔥: My LeetCode stats</h3></summary>
 
-<h3 align="left">🔥: My stats </h3>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/sou1toon?theme=dark)
+  
+</details>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sou1toon?theme=dark) 
+<details open> 
+  <summary><h3>📘: My Favorite Projects</h3></summary>
+  <p align="left">
+    <a href="https://github.com/sou1ton-exe/Harnometic-Equalizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sou1ton-exe&repo=Harnometic-Equalizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/sou1ton-exe/3D-Renderer-algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sou1ton-exe&repo=3D-Renderer-algorithm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  </p>
+</details>
