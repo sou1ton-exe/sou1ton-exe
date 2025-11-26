@@ -39,7 +39,7 @@
 
 
 <details open> 
-  <summary><h3>🛠: Technologies:</h3></summary>
+  <summary><h3>🛠: Technologies</h3></summary>
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
