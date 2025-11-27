@@ -32,13 +32,6 @@
 </div>
 
 
-<div align="center">
-  
-  ![view](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
-
-</div>
-
-
 <details open> 
   <summary><h3>🛠: Technologies</h3></summary>
 <div align="left">
