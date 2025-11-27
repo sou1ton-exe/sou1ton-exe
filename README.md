@@ -31,6 +31,12 @@
   <h1>ㅤ</h1>
 </div>
 
+<div align="center">
+
+  ![Views](https://komarev.com/ghpvc/?username=sou1ton-exe&abbreviated=true)
+  
+</div>
+
 
 <details open> 
   <summary><h3>🛠: Technologies</h3></summary>
