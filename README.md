@@ -43,16 +43,26 @@
 <details open> 
   <summary><h3>🛠: Technologies</h3></summary>
 <div align="left">
+  <summary><h4>Landuages: </h4></summary>
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+
+  <summary><h4>Tools: </h4></summary>
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+
+  <summary><h4>Database Management System: </h4></summary>  
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 </details>
 
