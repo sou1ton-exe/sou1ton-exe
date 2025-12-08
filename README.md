@@ -41,29 +41,24 @@
 
 
 <details open> 
-  <summary><h3>🛠: Technologies</h3></summary>
+  <summary><h3>🛠️: Technical Skills & Experience</h3></summary>
 <div align="left">
-  <summary><h4>Landuages: </h4></summary>
   
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+<h4>Game & Application Development:</h4>
 
-  <summary><h4>Tools: </h4></summary>
-  
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  + Unity Engine (Commercial experience) - Development of 2D/3D applications and games.
+  + C# - Proficient with Object-Oriented Programming (OOP), software architecture, and the Model-View-Presenter (MVP) design pattern.
 
-  <summary><h4>Database Management System: </h4></summary>  
-  
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-</div>
+<h4>Programming & Data Science:</h4>
+
+  + Python - Scripting and currently expanding knowledge in Machine Learning.
+  + SQL - Writing queries and working with relational databases.
+
+<h4>Web & Fundamentals:</h4>
+
+  + HTML5 & CSS3 - Building and styling web page layouts.
+  + Core Principles - Strong understanding of algorithm fundamentals and software design patterns (OOP, MVP)
+
 </details>
 
 <details open> 
