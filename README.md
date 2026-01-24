@@ -10,7 +10,7 @@
 
 👨‍💻: My programming languages are Python and C#
 
-⭐: 5+ years of experience in game and app development
+⭐: 6+ years of experience in game and app development
 
 ㅤ
 
