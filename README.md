@@ -8,7 +8,7 @@
 
 👨‍🎓: I'm studying at a ITMO university | Russia, SPB
 
-👨‍💻: My programming languages are Python and C#
+👨‍💻: My programming languages are Python, C and C#
 
 ⭐: 5+ years of experience in game and app development
 
