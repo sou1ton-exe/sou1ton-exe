@@ -6,7 +6,7 @@
 
 👾: I'm sou1toon
 
-👨‍🎓: I'm studying at a university
+👨‍🎓: I'm studying at a ITMO university | Russia, SPB
 
 👨‍💻: My programming languages are Python and C#
 
